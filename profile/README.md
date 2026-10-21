@@ -1,8 +1,9 @@
 # Dust Codegen
 
-Rust-powered code generation for Dart and Flutter: data classes, JSON,
-validation, HTTP clients, routing, state, localization, and SQL without
-`build_runner`.
+Extremely fast, batteries-included code generation for full-stack Dart and
+Flutter projects. Generate data classes, JSON, validation, HTTP clients,
+routing, state, localization, and SQL without `build_runner`; use the companion
+server runtime for Dart backends.
 
 [Website](https://dustcodegen.github.io/) ·
 [Repository](https://github.com/dustcodegen/dust) ·
