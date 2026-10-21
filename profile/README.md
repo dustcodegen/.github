@@ -3,9 +3,8 @@
 **Rust-powered, batteries-included code generation for full-stack Dart and
 Flutter.**
 
-Generate data classes, JSON, validation, HTTP clients, routing, state
-management, localization, and SQL—without `build_runner`. Dust also ships a
-Dart HTTP server runtime.
+Generate data classes, JSON, validation, HTTP clients and servers, routing,
+state management, localization, and SQL—without `build_runner`.
 
 [Website](https://dustcodegen.github.io/) ·
 [Repository](https://github.com/dustcodegen/dust) ·
