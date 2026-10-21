@@ -1,7 +1,8 @@
 # Dust Codegen
 
-Rust-powered code generation for Dart and Flutter. Dust generates the
-repetitive implementation while application code stays ordinary Dart.
+Rust-powered code generation for Dart and Flutter: data classes, JSON,
+validation, HTTP clients, routing, state, localization, and SQL without
+`build_runner`.
 
 [Website](https://dustcodegen.github.io/) ·
 [Repository](https://github.com/dustcodegen/dust) ·
