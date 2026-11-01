@@ -1,4 +1,4 @@
-# Dust Codegen
+# dust
 
 **Rust-powered, full-stack code generation for Dart and Flutter—from apps to
 servers.**
